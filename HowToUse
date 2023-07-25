@@ -1,0 +1,12 @@
+Instructions: 
+
+Disable Anti-virus
+Download InstantExecutor.py
+Install Python 3.11+ and add it to your path
+Restart your PC
+Open cmd and locate your downloads folder, type "python3 InstantExecutor.py"
+If asked for administrator permission select "yes".
+Wait for the .py file to download and install the required files.
+Next when it says "Finished download" head over to the files and open "Eggseguttor.exe"
+When asked for login information: Username: Tester , Password: InstantName
+Have fun executing Lua's!
